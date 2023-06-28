@@ -1,0 +1,35 @@
+.errorInfo {
+    color: #FF6666;
+    display: none;
+  }
+  .error .errorInfo {
+    display: block;
+  }
+  
+  #wire {
+    /* background: url(cloud.png) no-repeat center top; */
+    height: 245px;
+  }
+  
+  .wire-data {
+    padding-top: 70px;
+    text-align: center;
+  }
+  
+  .display {
+    width: 60%;
+    margin: 10px auto 0;
+  }
+  
+  #encryptedMsg {
+    border-top: 1px dashed #AAA;
+    padding-top: 8px;
+  }
+  
+  .wire-data .data {
+    font-weight: bold;
+  }
+  .mt-4
+  {
+    margin-top: 8px;
+  }
